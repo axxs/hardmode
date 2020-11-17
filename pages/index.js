@@ -3,9 +3,9 @@ import Head from 'next/head'
 
 const Home = () => (
   <div>
-    <h1>Next.js on the [JAMstack](https://jamstack.org)</h1>
+    <h1>Hard Mode</h1>
 
-    <h3>Hooray 🎉 - you've built this with <a href="https://nextjs.org">Next.js</a>!</h3>
+    <h3>Social. Stuff.</h3>
 
     <style jsx>{`
       :global(html,body) {
@@ -16,7 +16,7 @@ const Home = () => (
 
       :global(body) {
         font-size: calc(10px + 1vmin);
-        font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen', 'Ubuntu', 'Cantarell', 'Fira Sans',
+        font-family: -apple-system, BlinkMacSystemFont, 'Titillium Web', 'Segoe UI', 'Roboto', 'Oxygen', 'Ubuntu', 'Cantarell', 'Fira Sans',
           'Droid Sans', 'Helvetica Neue', sans-serif;
         -webkit-font-smoothing: antialiased;
         -moz-osx-font-smoothing: grayscale;
